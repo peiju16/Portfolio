@@ -1,0 +1,85 @@
+======== PORTFOLIO =============
+
+
+--JS Squid Game   https://peiju16.github.io/JS_SquidGame/
+-- Color Palettes   https://peiju16.github.io/JS_ColorPalettes/
+-- TVA calculator  https://peiju16.github.io/JS_TVA-Calculator/
+--Drum music  https://peiju16.github.io/JS_DrumMusic/   
+-- location car    https://peiju16.github.io/JQ_Site_Car_Location/
+-- JS moon move (paralax)   https://peiju16.github.io/JS_paralax/
+-- colorcircle  https://peiju16.github.io/JS_ColorCircles/
+-- php immobiliere  
+
+///// A faire  //////
+
+--Bootstrap Boutique avec PHP
+
+
+
+=======ICON========
+
+linkdin
+<a target="_blank" href="https://icons8.com/icon/67673/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+github
+<a target="_blank" href="https://icons8.com/icon/Pov8Es0m6ZHz/github-squared">Github</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+discord
+<a target="_blank" href="https://icons8.com/icon/QlYmLa7mFBa6/discord-bubble">Discord</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+home
+<a target="_blank" href="https://icons8.com/icon/73/home">Home</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+resume
+<a target="_blank" href="https://icons8.com/icon/23877/resume">Resume</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+portefolio
+<a target="_blank" href="https://icons8.com/icon/111593/portfolio">Portfolio</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+contact
+<a target="_blank" href="https://icons8.com/icon/63598/envelope">Envelope</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+computer
+<a target="_blank" href="https://icons8.com/icon/64819/macbook-idea">MacBook Idea</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+computer2
+<a target="_blank" href="https://icons8.com/icon/63987/laptop-pasword">Laptop Pasword</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+netflix
+<a target="_blank" href="https://icons8.com/icon/dQxK4aUGCnWV/netflix-desktop-app">Netflix Desktop App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+yoga
+<a target="_blank" href="https://icons8.com/icon/25478/prenatal-yoga">Yoga</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+yoga2
+<a target="_blank" href="https://icons8.com/icon/t4kcW9XcdxLg/yoga">Yoga</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+paperplane
+<a target="_blank" href="https://icons8.com/icon/67481/paper-plane">Paper Plane</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+=============================================================================
+
+//lien utile///
+
+*circle bar
+https://github.com/webl0per/Circular-progress-bar/tree/master
+
+=============================================================================
+///RESUME////
+
+Depuis 2020, avec le fort développement du e-commerce, cela m'a permis de découvrir mon intérêt envers la carrière informatique, en particulier le développement web. Grâce à la formation solide dispensée par les enseignants de l'AFPA, je suis en train d'acquérir mes compétences en développement web.
+
+Avec plus de 10 ans d'expérience dans le commerce de détail, dont 8 ans dans le domaine du luxe, cela me permet d'acquérir des compétences solides en comprenant les besoins des clients ainsi qu'une vision esthétique pour concevoir le front-end d'un site web. En plus de ma personnalité organisée et logistique, cela m'a donné une forte compétence en développement back-end pour gérer des bases de données. Mes principaux atouts comprennent une forte capacité d'organisation, de coopération en travaillant en équipe, une vision esthétique pour le front-end ainsi qu'une aptitude à apprendre rapidement les outils informatiques.
+
+ --ENGLISH--
+
+Since 2020, with the strong development of e-commerce, it has allowed me to discover my interest in the computer science field, especially in web development. With the solid training provided by AFPA instructors, I am in the process of acquiring my skills in web development.
+
+With over 10 years of experience in retail, including 8 years in the luxury industry, this allows me to acquire strong skills in understanding customer needs and an aesthetic vision for designing the front-end of a website. In addition to my organized and logistical personality, this has given me a strong skill set in back-end development for managing databases. My main strengths include a strong organizational ability, cooperation in working as a team, an aesthetic vision for the front-end, and an aptitude for quickly learning computer tools.
+
+*********************************
+En formation de développement web full-stack avec des enseignants de l'AFPA depuis octobre 2023, je suis en train d'acquérir mes compétences dans les langages et outils pour le front-end et le back-end, y compris : HTML, CSS, JavaScript, jQuery, React, SQL, PHP, etc.
+
+--ENGLISH--
+
+In full-stack web development training with AFPA instructors since October 2023, I am acquiring skills in languages and tools for both front-end and back-end, including: HTML, CSS, JavaScript, jQuery, React, SQL, PHP, etc.
