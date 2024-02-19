@@ -83,3 +83,67 @@ En formation de développement web full-stack avec des enseignants de l'AFPA dep
 --ENGLISH--
 
 In full-stack web development training with AFPA instructors since October 2023, I am acquiring skills in languages and tools for both front-end and back-end, including: HTML, CSS, JavaScript, jQuery, React, SQL, PHP, etc.
+
+
+=======================================================================================
+
+Formulaire PHP
+<?php
+
+$pdo = new PDO('mysql:host=localhost;dbname=portfolio_contact', 'root', '',
+    array(
+    PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING,
+    PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'
+    ));
+
+$content = "";
+
+if ($_POST) {
+    $to = "peiju16@gmail.com";
+    $from = $_POST["email"];
+    $first_name = $_POST["firstname"];
+    $name = $_POST["lastname"];
+    $phone = $_POST["phone"];
+    $subject = "Formulaire de contact";
+    $message = $first_name . " " . $name . " a écrit un message: \n\n" . $_POST["message"];
+    $message2 = "Ceci est une copie de votre message : " . $first_name . " " . $name . " a écrit un message:\n\n" . $_POST["message"];
+    $headers = "From:" . $to;
+    $headers2 = "From:" . $from;
+
+    mail($to, $subject, $message, $headers);
+    mail($from, $subject, $message2, $headers); // copie à l'envoyeur
+
+    // on ignore les caractères spéciaux
+    foreach ($_POST as $key => $value) {
+
+        $_POST[$key] = addslashes($value);
+    }
+
+    $count = $pdo->exec("INSERT INTO contact (
+    first_name,
+    last_name,
+    email,
+    phone,
+    subject,
+    message,
+    date)
+    VALUES(
+        '$first_name',
+        '$name',
+        '$from',
+        '$phone',
+        '$subject',
+        '$message',
+        NOW()
+        )");
+
+if ($count > 0) {
+
+    $content .= "$content .= "<div class='alert alert-dark' role='alert'>
+      Your message has been sent successfully! </div>";
+
+}
+
+}
+
+?>
